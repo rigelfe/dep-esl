@@ -1,7 +1,7 @@
 {
-  "name": "dep-esl",
+  "name": "esl",
   "version": "1.6.0",
-  "description": "esl for edp crm",
+  "description": "esl wrap",
   "main": "dist/esl.js",
   "contributors": [
     {
